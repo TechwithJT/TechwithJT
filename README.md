@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Security Audit Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security Audit Lab](https://github.com/jv3687/SecurityAuditLab/blob/main/README.md)
   - [Security Onion/ Splunk Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2 >:newspaper: Certifications</h2>
