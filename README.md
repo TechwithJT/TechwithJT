@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Building a Honeynet in Azure](https://github.com/jv3687/SecurityAuditLab/blob/main/README.md)
-  - [Installing Splunk on kali linux via command line]()
+  - [Installing Splunk on Kali Linux via Terminal]()
 
 <h2 >:newspaper: Certifications</h2>
 
