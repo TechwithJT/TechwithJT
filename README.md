@@ -4,6 +4,7 @@
 
   - [Building a Honeynet in Azure](https://github.com/jv3687/Creating-a-Honeynet-in-Azure)
   - [Installing Splunk on Kali Linux via Terminal](https://github.com/jv3687/Installing-Splunk-in-Kali-via-terminal/blob/main/README.md)
+  - [OpenVAS Vulnerability Management Lab with Azure](https://github.com/jv3687/Creating-a-Honeynet-in-Azure)
 
 <h2 >:newspaper: Certifications</h2>
 
