@@ -5,7 +5,7 @@
   - [Building a Honeynet in Azure](https://github.com/jv3687/Creating-a-Honeynet-in-Azure)
   - [Installing Splunk on Kali Linux via Terminal](https://github.com/jv3687/Installing-Splunk-in-Kali-via-terminal/blob/main/README.md)
   - [OpenVAS Vulnerability Management Lab with Azure](https://github.com/TechwithJT/OpenVAS-Vulnerability-Lab)
-  - [Installing and Configuring Wazuh SIEM and Dashboard]()
+  - [Installing and Configuring Wazuh SIEM and Dashboard](https://github.com/TechwithJT/Installing-Wazuh-SIEM-and-Dashboard)
 
 <h2 >:newspaper: Certifications</h2>
 
